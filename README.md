@@ -24,7 +24,7 @@ AtliQo Bank Project focuses on **customer segmentation, credit profile analysis,
 ##  Tech Stack
 -  **Python** (Pandas, Matplotlib, Seaborn)
 -  **SQL** for database querying
--  **Machine Learning** (EDA, PCA)
+-  **statsmodels Library** 
 
 
 
