@@ -16,8 +16,8 @@ AtliQo Bank Project focuses on **customer segmentation, credit profile analysis,
 ## 📂 Project Structure
 📦 AtliQo-Bank-Project/ 
 ┣ 📂 data/ 
-┣ 📂 notebooks/ 
 ┣ 📂 images/ 
+┣ 📂 notebooks/ 
 ┣ 📜 README.md 
 ┣ 📜 requirements.txt
 
