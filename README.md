@@ -11,7 +11,12 @@ AtliQo Bank Project focuses on **customer segmentation, credit profile analysis,
 - **Campaign Performance Evaluation** 📢 - Assessing marketing impact on banking transactions.
 
 ## 📂 Project Structure
-📦 AtliQo-Bank-Project/ ┣ 📂 data/ ┣ 📂 notebooks/ ┣ 📂 src/ ┣ 📜 README.md ┣ 📜 requirements.txt
+📦 AtliQo-Bank-Project/ 
+┣ 📂 data/ 
+┣ 📂 notebooks/ 
+┣ 📂 src/ 
+┣ 📜 README.md 
+┣ 📜 requirements.txt
 
 ## 🔧 Tech Stack
 - 🐍 **Python** (Pandas, Matplotlib, Seaborn)
