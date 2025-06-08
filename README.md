@@ -27,7 +27,7 @@ AtliQo Bank Project focuses on **customer segmentation, credit profile analysis,
 
 ## ⚡ Installation & Usage
 ```bash
-git clone https://github.com/Prudhvinaraya/AtliQO-Client-Project-
+git clone https://github.com/Karthik-1221/Atliqo-Bank-Project
 cd AtliQo-Bank-Project
 pip install -r requirements.txt
 python main.py
